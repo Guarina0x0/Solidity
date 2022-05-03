@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "correrLoop",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Contrato/do_while.sol": "Datos"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Contrato/do_while.sol": {
+			"keccak256": "0xbe00d5267830a2b636dcd7a138b0df8c14ac853d252f1ab8bb6b05ee2a9293bf",
+			"urls": [
+				"bzz-raw://a35f7a807d1deeb8e8ab0e314f274c341fc6361d511aaadec45aed342791c9fa",
+				"dweb:/ipfs/QmUS2KE7PA8MEmC4KXkPrFGJC4P1ovtpJVp2afT7ZtKVpJ"
+			]
+		}
+	},
+	"version": 1
+}

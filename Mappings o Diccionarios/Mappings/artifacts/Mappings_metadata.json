@@ -1,0 +1,71 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "nuevoBalance",
+						"type": "uint256"
+					}
+				],
+				"name": "cambiarBalance",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "devolverBalance",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Mappings/Mappings.sol": "Mappings"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Mappings/Mappings.sol": {
+			"keccak256": "0x7aee5b9628ad8e53bcf491491e4ff11175172070d1decf55ba9c0b5ede09575f",
+			"urls": [
+				"bzz-raw://36af20dc0a09f386ed7173c8ad9388dcb7ecd290443ca6214149910419b26e46",
+				"dweb:/ipfs/Qma4R4RMnt7k22bj3ikSFBgA52pRCGAwage5LmtGsCFPo4"
+			]
+		}
+	},
+	"version": 1
+}
